@@ -28,3 +28,9 @@ ENV/
 # OS-specific
 .DS_Store
 Thumbs.db
+
+# idea files ignore
+.idea/
+
+# .gitignore
+*.egg-info/

@@ -1,0 +1,7 @@
+# requirements.txt
+
+requests
+pyreadr
+h5py
+numpy
+rpy2>=3.5.1  # Required for accessing R objects from Python
