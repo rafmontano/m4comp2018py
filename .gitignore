@@ -1,0 +1,30 @@
+# Python cache and metadata
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# IDE settings
+.idea/
+.vscode/
+
+# Data and large files
+*.rda
+*.h5
+*.tar.gz
+data/
+*.zip
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Jupyter and notebook artifacts
+.ipynb_checkpoints/
+*.ipynb
+
+# OS-specific
+.DS_Store
+Thumbs.db
